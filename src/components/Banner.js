@@ -62,7 +62,7 @@ const Banner = () => {
             <a href='#'>
               <FaYoutube />
             </a>
-            <a href='#'>
+            <a href='https://github.com/YassinEhabMo'>
               <FaGithub />
             </a>
             <a href='#'>

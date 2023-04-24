@@ -9,6 +9,10 @@ import { motion } from 'framer-motion';
 import { fadeIn } from '../variants';
 
 const About = () => {
+  const goToSection = (sectionId) => {
+    window.location.hash = '';
+    window.location.hash = sectionId;
+  }
   const [ref, inView] = useInView({
     threshold: 0.5
   })
@@ -78,7 +82,7 @@ const About = () => {
             </div>
           </div>
           <div className='flex gap-x-8 items-center'>
-            <button className='btn btn-lg'>Contact me</button>
+            <button className='btn btn-lg' onClick={() => goToSection('contact')}>Contact me</button>
             <a href='#' className='text-gradient btn-link'>
               My Portfolio
             </a>

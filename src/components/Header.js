@@ -3,6 +3,10 @@ import React from 'react';
 import Logo from '../assets/logopic.png';
 
 const Header = () => {
+  const goToSection = (sectionId) => {
+    window.location.hash = '';
+    window.location.hash = sectionId;
+  }
   return <header className='py-8'>
     <div className='containter mx-auto'>
       <div className='flex justify-around items-center'>
@@ -16,7 +20,9 @@ const Header = () => {
         EHAB</h1>
         </div>
         {/* button */}
-        <button className='btn btn-sm'>Work with me</button>
+        <button type="" className="btn btn-sm" onClick={() => goToSection('contact')}>
+      Work with me
+    </button>
       </div>
     </div>
   </header>;

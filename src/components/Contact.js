@@ -71,6 +71,9 @@ function Contact() {
             <button id='btn-send' type='submit' className='btn btn-sm'>Send message</button>
           </motion.form>
         </div>
+        <div class="commentbox"></div>
+        <script defer src="https://cdn.commento.io/js/commento.js"></script>
+        <div id="commento"></div>
       </div>
     </section>
   );

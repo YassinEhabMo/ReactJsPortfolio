@@ -10,28 +10,28 @@ const services = [
   {
     name: 'UI/UX Design',
     description: 
-    'lorem, ipusm dolor sit amet consecteture adipisicing elit. Maiores, quia quo expedita accusamus.',
+    'Lorem Ipsum is simply dummy text of the printing industry. Lorem Ipsum has been the industry s standard dummy text ever since the 1500s.',
     link: 'Learn more',
 
   },
   {
     name: 'Development',
     description:
-    'lorem, ipusm dolor sit amet consecteture adipisicing elit. Maiores, quia quo expedita accusamus.',
+    'Lorem Ipsum is simply dummy text of the printing industry. Lorem Ipsum has been the industry s standard dummy text ever since the 1500s.',
     link: 'Learn more',
 
   },
   {
     name: 'Digital Marketing',
     description:
-    'lorem, ipusm dolor sit amet consecteture adipisicing elit. Maiores, quia quo expedita accusamus.',
+    'Lorem Ipsum is simply dummy text of the printing industry. Lorem Ipsum has been the industry s standard dummy text ever since the 1500s.',
     link: 'Learn more',
 
   },
   {
     name: 'Product Branding',
     description:
-    'lorem, ipusm dolor sit amet consecteture adipisicing elit. Maiores, quia quo expedita accusamus.',
+    'Lorem Ipsum is simply dummy text of the printing industry. Lorem Ipsum has been the industry s standard dummy text ever since the 1500s.',
     link: 'Learn more',
 
   }

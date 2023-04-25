@@ -26,9 +26,8 @@ const Work = () => {
                 Work.
               </h2>
               <p className='max-w-sm mb-16'>
-                Lorem ipusm dolor sit amet consectetur adipisicing elit.
-                Repellet, hic! Harum quis, cum velit neque esse eos molestais
-                doloremque explicablo!
+              Lorem Ipsum is simply dummy text of the printing industry.
+              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
               </p>
               <button className='btn btn-sm'>View all projects</button>
             </div>
@@ -46,12 +45,14 @@ const Work = () => {
               {/* pretitle */}
               <div className='absolute -bottom-full left-12
               group-hover:bottom-24 transition-all duration-500 z-50'>
-                <span className='text-gradient'>UI/UX Design</span>
+                <span className='text-gradient'>ReactJsProject</span>
               </div>
               {/* title */}
               <div className='absolute -bottom-full left-12
               group-hover:bottom-14 transition-all duration-700 z-50'>
-                <span className='text-[30px] text-white'>Project Title</span>
+                <a href='https://github.com/YassinEhabMo/ReactJsPortfolio2'>
+                <span className='text-[30px] text-white'>ReactJsPortfolio2</span>
+                </a>
               </div>
             </div>
           </motion.div>

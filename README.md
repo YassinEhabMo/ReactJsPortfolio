@@ -1,3 +1,7 @@
+# Personal Portfolio Website in React
+
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="image.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

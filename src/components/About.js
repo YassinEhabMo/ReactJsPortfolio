@@ -38,11 +38,10 @@ const About = () => {
           <h2 className='h2 text-accent'>About me.</h2>
           <h3 className='h3 mb-4'>I'm a Freelance Front-end Developer with over 2 years of experience.</h3>
           <p className='mb6'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. dolor
-            natus omnis inventore quas beatae illo nulla. Officiss magni
-            omnis
-            molestias.
+          Lorem Ipsum is simply dummy text of the printing industry.
+          Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
           </p>
+          <br />
           {/* stats */}
           <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
             <div>

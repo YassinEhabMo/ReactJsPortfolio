@@ -12,7 +12,8 @@ class PageWithComments extends React.Component {
 
   render() {
     return <div className='container mx-auto'>
-      <div id="CommentSection" />
+      <div id="Comment" />
+      <div class="commentbox"></div>
     </div>
   }
 }
